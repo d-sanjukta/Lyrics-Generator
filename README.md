@@ -3,7 +3,7 @@ Lyrics generator using LLMs
 
 <b> <u> INTRODUCTION</u> :</b>
 
-  - Lyrics are an essential component of music. Musicians can communicate their ideas, feelings, and experiences to their listeners through lyrics. But creating lyrics can be difficult since it requires a skill set combining creativity, language mastery, and cultural sensitivity. 
+  - Lyrics are an essential component of music. Musicians can communicate their ideas, feelings, and experiences to their listeners through lyrics. But creating lyrics can be difficult since it requires a skill set combining creativity, mastery of language, and cultural sensitivity. 
   - The recent development in Natural Language Processing over the years has made it possible to generate sentences based on specific prompts. NLP models may analyze and synthesize language in a way that imitates human creativity by utilizing the capabilities of machine learning and computational linguistics.
 
 > OBJECTIVE:
